@@ -16,7 +16,7 @@
 ###
 
 <p align="left">👀 I’m interested in Web Technology<br>📚 I'm currently learning Front-End Development<br>💞️ I love to learn newest web technologies<br>👨‍💻 
-  All of my projects are available at https:https: //aminur-rahman-677.netlify.app/<br>📄 Know about my experiences: (https://drive.google.com/file/d/1pZUD8rx7Dedg_3Xcw1FY4L6HBZ3peZJv/view)</p>
+  All of my projects are available at: https://aminur-rahman-677.netlify.app/<br>📄 Know about my experiences: https://drive.google.com/file/d/1pZUD8rx7Dedg_3Xcw1FY4L6HBZ3peZJv/view</p>
 
 ###
 
