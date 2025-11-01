@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <img height="360" width="500" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
+  <img height="340" width="500" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
 </div>
 
 ###
